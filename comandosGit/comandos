@@ -10,6 +10,7 @@ git push --> me  llevo al remoto mis cambios locales
 
 
 ------ORDEN DE TRABAJO----------
+git checkout main
 git pull --> me traigo el remoto
 git checkout -b "NOMBRE RAMA" --> cme creo mi propia rama
 git add . -> pensar que voy a guardar

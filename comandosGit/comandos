@@ -1,0 +1,22 @@
+-------------GIT-------------------
+git clone URL
+git add . -> pensar que voy a guardar
+git commit -m "MENSAJE DE GUARDADO" --> para guardar con un mensaje en concreto
+git checkout -b "NOMBRE RAMA" --> crear una rama a partir de la que me encuentro ahora
+
+--------------GITHUB (remoto)--------------------
+git pull --> me trae la rama remota en la que me encuentro
+git push --> me  llevo al remoto mis cambios locales
+
+
+------ORDEN DE TRABAJO----------
+git pull --> me traigo el remoto
+git checkout -b "NOMBRE RAMA" --> cme creo mi propia rama
+git add . -> pensar que voy a guardar
+git commit -m "MENSAJE DE GUARDADO" --> guardo en mi ordenador
+git push --> guardo al remoto
+crear la pull request en la web
+
+
+--------------Pull request (des de la web de github)---------------------
+Subir mi rama ya estable a main
